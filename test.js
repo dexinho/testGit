@@ -1,2 +1,32 @@
-console.log('fifth')
+const arr = []
 
+arr.map()
+arr.reduce()
+arr.filter()
+arr.sort()
+arr.find()
+arr.findIndex()
+arr.every()
+arr.some()
+arr.forEach()
+arr.flatMap()
+arr.reduceRight()
+
+arr.includes()
+arr.at()
+arr.length
+arr.indexOf()
+arr.lastIndexOf()
+arr.join()
+arr.toString()
+arr.slice()
+arr.flat()
+arr.concat()
+
+arr.push()
+arr.pop()
+arr.unshift()
+arr.shift()
+arr.reverse()
+arr.copyWithin()
+arr.splice()
